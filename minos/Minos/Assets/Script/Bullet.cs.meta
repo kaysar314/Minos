@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e24205c71dcad4f24ba7f480e2083dc5
+timeCreated: 1467176665
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bulleePrefab: {fileID: 155456, guid: b1b569a9028b244c490f0af27a20e8fd, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
